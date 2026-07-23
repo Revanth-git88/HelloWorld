@@ -1,2 +1,6 @@
 # HelloWorld
-It is my first github repositary
+My first program to be uploaded to GitHub
+
+##Run it
+```bash
+python helloworld.py
